@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\gonza\onedrive\escritorio\grancerdo\grancerdo\main.cpp
+	<iostream>
+
+1713565875 source:c:\users\gonza\onedrive\escritorio\grancerdo\grancerdo\funciones.cpp
+	<iostream>
+	"funciones.h"
+	<ctime>
+
+1713565829 c:\users\gonza\onedrive\escritorio\grancerdo\grancerdo\funciones.h
+
